@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\wwwroot\\images\\2566x14402.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\wwwroot\\images\\2566x14402.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\wwwroot\\images\\123123.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\wwwroot\\images\\123123.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\migrations\\20250513152342_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\migrations\\20250513152342_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1285158110:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2566x14402.png - PNG [1123x630, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\wwwroot\\images\\2566x14402.png",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\wwwroot\\images\\2566x14402.png",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\wwwroot\\images\\2566x14402.png - PNG [1123x630, 32 bit, PNG]",
+              "RelativeToolTip": "VQM-G3-webbanhang\\wwwroot\\images\\2566x14402.png - PNG [1123x630, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T02:13:03.651Z",
+              "EditorCaption": " - PNG [1123x630, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "123123.jpg - Bitmap [1000x1500, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\wwwroot\\images\\123123.jpg",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\wwwroot\\images\\123123.jpg",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\wwwroot\\images\\123123.jpg - Bitmap [1000x1500, 24 bit, JPG]",
+              "RelativeToolTip": "VQM-G3-webbanhang\\wwwroot\\images\\123123.jpg - Bitmap [1000x1500, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T02:13:01.26Z",
+              "EditorCaption": " - Bitmap [1000x1500, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Update.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Categories\\Update.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Update.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Categories\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:07:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:07:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:07:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:07:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Test.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Test.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Test.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T02:02:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T01:54:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\Product.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:25:53.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T00:55:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T00:50:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T00:43:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:03:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:00:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:52:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\appsettings.json",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\appsettings.json",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\appsettings.json",
+              "RelativeToolTip": "VQM-G3-webbanhang\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T19:49:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Program.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Program.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Program.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:47:15.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:45:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250513152342_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Migrations\\20250513152342_Initial.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Migrations\\20250513152342_Initial.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Migrations\\20250513152342_Initial.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Migrations\\20250513152342_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:45:48.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:30:15.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:28:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:28:23.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:27:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:13:18.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:12:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:59:16.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:59:38.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

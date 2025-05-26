@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Style nội bộ -->
+<style>
+    /* Banner */
+    .banner {
+        width: 100%;
+        height: 400px;
+        background: url(#) center center/cover no-repeat;
+        border-radius: 20px; /* Điều chỉnh bán kính bo viền */
+        margin-bottom: 40px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        border: 5px solid #ffcc00; /* Viền màu vàng */
+    }
+
+    /* Card styling */
+    .product-card {
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background: #fff;
+    }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+    .card-img-top {
+        height: 450px; /* Giữ chiều cao cố định */
+        width: 100%;
+        object-fit: cover; /* Cắt ảnh để vừa khung mà không làm méo hình */
+    }
+
+    .buy-btn {
+        background: linear-gradient(135deg, #007bff, #6610f2);
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 30px;
+        margin-top: 10px;
+        transition: background 0.3s ease;
+    }
+
+        .buy-btn:hover {
+            background: linear-gradient(135deg, #0056b3, #4e0ed0);
+        }
+
+    body {
+        background-color: #f5f7fa;
+    }
+</style>
+
+<!-- Banner -->
+<div class="banner"></div>
+
+<!-- Danh sách sản phẩm -->
+<div class="container">
+    <h2 class="text-center mb-4" style="color:#333;">Sản phẩm nổi bật</h2>
+
+    <div class="row">
+        <!-- iPhone -->
+        <div class="col-md-4 mb-4">
+            <div class="card product-card h-100">
+                <img src="https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus-256gb_2.png" class="card-img-top" alt="iPhone">
+                <div class="card-body text-center">
+                    <h5 class="card-title">iPhone 15 Pro</h5>
+                    <p class="card-text">Hiệu năng mạnh mẽ, thiết kế titan, camera cực chất.</p>
+                    <a href="#" class="btn buy-btn">Mua ngay</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- iPhone 16e -->
+        <div class="col-md-4 mb-4">
+            <div class="card product-card h-100">
+                <img src="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-16e-256gb_1_.png" class="card-img-top" alt="iPhone 16e">
+                <div class="card-body text-center">
+                    <h5 class="card-title">iPhone 16e</h5>
+                    <p class="card-text">Chip A18 Bionic, thiết kế mới đột phá.</p>
+                    <a href="#" class="btn buy-btn">Mua ngay</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- iPad Pro M4 -->
+        <div class="col-md-4 mb-4">
+            <div class="card product-card h-100">
+                <img src="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-pro-m4-11-inch_5_.png" class="card-img-top" alt="iPad Pro M4">
+                <div class="card-body text-center">
+                    <h5 class="card-title">iPad Pro M4</h5>
+                    <p class="card-text">Hiển thị đẹp, hiệu suất vượt trội với chip M4.</p>
+                    <a href="#" class="btn buy-btn">Mua ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VQM-G3-webbanhang.props" />
+</Project>
