@@ -1,0 +1,103 @@
+﻿@model VQM_G3_webbanhang.Models.Product
+@using System.Text.Json
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+
+    var allImages = new List<string>();
+    if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        allImages.Add(Model.ImageUrl);
+    }
+    if (Model.Images != null && Model.Images.Any())
+    {
+        allImages.AddRange(Model.Images.Select(i => i.Url));
+    }
+
+    var jsonImages = JsonSerializer.Serialize(allImages);
+}
+
+<h2 class="mb-4 text-primary">@Model.Name</h2>
+
+<div class="row">
+    <!-- Cột trái: ảnh sản phẩm -->
+    <div class="col-md-6 text-center">
+        <div class="position-relative mb-3">
+            <button class="btn btn-light position-absolute top-50 start-0 translate-middle-y shadow" onclick="prevImage()" style="z-index: 2;">❮</button>
+
+            <img id="mainImage" src="@allImages.FirstOrDefault()" class="img-fluid border rounded shadow" style="max-height: 400px; object-fit: contain;" />
+
+            <button class="btn btn-light position-absolute top-50 end-0 translate-middle-y shadow" onclick="nextImage()" style="z-index: 2;">❯</button>
+        </div>
+
+        <!-- Ảnh phụ -->
+        <div class="d-flex flex-wrap justify-content-center gap-2 mt-3">
+            @for (int i = 0; i < allImages.Count; i++)
+            {
+                <img src="@allImages[i]" class="thumbnail-img @(i == 0 ? "selected" : "")" onclick="setImage(@i)" />
+            }
+        </div>
+    </div>
+
+    <!-- Cột phải: thông tin -->
+    <div class="col-md-6">
+        <p><strong>Giá:</strong> <span class="text-danger fw-bold">@Model.Price.ToString("N0") ₫</span></p>
+        <p><strong>Mô tả:</strong> @Model.Description</p>
+        @if (Model.Category != null)
+        {
+            <p><strong>Danh mục:</strong> @Model.Category.Name</p>
+        }
+        <a asp-action="Index" class="btn btn-outline-primary mt-4">← Quay lại danh sách</a>
+    </div>
+</div>
+
+<style>
+    .thumbnail-img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 2px solid transparent;
+        cursor: pointer;
+        transition: border-color 0.2s, transform 0.2s;
+    }
+
+        .thumbnail-img:hover {
+            border-color: #0d6efd;
+            transform: scale(1.05);
+        }
+
+        .thumbnail-img.selected {
+            border-color: #0d6efd;
+        }
+</style>
+
+@section Scripts {
+    <script>
+        const images = @Html.Raw(jsonImages);
+        let currentIndex = 0;
+
+        function showImage(index) {
+            if (index >= 0 && index < images.length) {
+                document.getElementById("mainImage").src = images[index];
+                currentIndex = index;
+
+                document.querySelectorAll('.thumbnail-img').forEach((img, i) => {
+                    img.classList.toggle('selected', i === index);
+                });
+            }
+        }
+
+        function nextImage() {
+            showImage((currentIndex + 1) % images.length);
+        }
+
+        function prevImage() {
+            showImage((currentIndex - 1 + images.length) % images.length);
+        }
+
+        function setImage(index) {
+            showImage(index);
+        }
+    </script>
+}

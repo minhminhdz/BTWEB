@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VQM-G3-webbanhang",
+    "\\VQM-G3-webbanhang\\Controllers",
+    "\\VQM-G3-webbanhang\\Models",
+    "\\VQM-G3-webbanhang\\Repositories",
+    "\\VQM-G3-webbanhang\\Views",
+    "\\VQM-G3-webbanhang\\Views\\Categories",
+    "\\VQM-G3-webbanhang\\Views\\Home",
+    "\\VQM-G3-webbanhang\\Views\\Product",
+    "\\VQM-G3-webbanhang\\Views\\Shared"
+  ],
+  "SelectedNode": "\\VQM-G3-webbanhang\\Controllers\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|c:\\users\\quang\\source\\repos\\vqm-g3-webbanhang\\vqm-g3-webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543D9799-E56C-42B1-9AE4-A9EFF9BF09AB}|VQM-G3-webbanhang\\VQM-G3-webbanhang.csproj|solutionrelative:vqm-g3-webbanhang\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1285158110:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141122131:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:56:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Program.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Program.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Program.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:53:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:52:41.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:48:30.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\VQM-G3-webbanhang\\VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "VQM-G3-webbanhang\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAEwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:14:02.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

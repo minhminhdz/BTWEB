@@ -1,0 +1,37 @@
+﻿@model IEnumerable<VQM_G3_webbanhang.Models.Product>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+<h2>🛒 Danh sách sản phẩm</h2>
+
+<a asp-action="Add" class="btn btn-success mb-3">➕ Thêm sản phẩm</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Danh mục</th>
+            <th>Ảnh đại diện</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Price.ToString("N0") ₫</td>
+                <td>@p.Category?.Name</td>
+                <td>
+                    <img src="@p.ImageUrl" style="width: 80px; height: 80px; object-fit: cover;" />
+                </td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@p.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                    <a asp-action="Update" asp-route-id="@p.Id" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@p.Id" class="btn btn-danger btn-sm" onclick="return confirm('Xóa sản phẩm này?')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

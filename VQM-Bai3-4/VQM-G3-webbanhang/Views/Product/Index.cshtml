@@ -1,0 +1,136 @@
+﻿@model IEnumerable<VQM_G3_webbanhang.Models.Product>
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<!-- CellphoneS Style -->
+<style>
+    .product-gallery {
+        background-color: #f9f9f9;
+    }
+
+    .cell-title {
+        font-size: 30px;
+        font-weight: 700;
+        color: #d70018;
+    }
+
+    .btn-cell {
+        background-color: #d70018;
+        color: white;
+        font-weight: 600;
+        border: none;
+        transition: 0.3s;
+    }
+
+        .btn-cell:hover {
+            background-color: #b40014;
+        }
+
+    .card {
+        transition: transform 0.2s;
+        border-radius: 10px;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+        }
+
+    .card-img-top {
+        max-height: 200px;
+        object-fit: contain;
+        padding: 10px;
+        background-color: #fff;
+        border-bottom: 1px solid #eee;
+    }
+
+    .card-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #333;
+        height: 48px;
+        overflow: hidden;
+    }
+
+    .card-text {
+        font-size: 14px;
+        color: #777;
+        height: 40px;
+        overflow: hidden;
+    }
+
+    .price {
+        font-size: 18px;
+        font-weight: bold;
+        color: #d70018;
+    }
+
+    .category {
+        font-size: 13px;
+        color: #555;
+    }
+
+    .action-btns a {
+        font-size: 14px;
+        margin: 0 4px;
+        min-width: 60px;
+    }
+
+</style>
+
+<section class="product-gallery py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="cell-title">🛒 Danh Sách Sản Phẩm</h2>
+            <p class="text-muted">Khám phá các sản phẩm hot nhất tại CellphoneS</p>
+            <a asp-action="Add" class="btn btn-cell">
+                <i class="bi bi-plus-circle"></i> Thêm Sản Phẩm Mới
+            </a>
+        </div>
+
+        <form method="get" asp-action="Index" class="row mb-4 g-2">
+            <div class="col-md-6">
+                <input type="text" name="searchQuery" class="form-control" placeholder="Tìm theo tên sản phẩm...">
+            </div>
+            <div class="col-md-4">
+                <select name="sortOrder" class="form-select" onchange="this.form.submit()">
+                    <option selected disabled>Sắp xếp theo</option>
+                    <option value="name_asc">Tên (A-Z)</option>
+                    <option value="name_desc">Tên (Z-A)</option>
+                    <option value="price_asc">Giá (Thấp - Cao)</option>
+                    <option value="price_desc">Giá (Cao - Thấp)</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-cell w-100">Tìm kiếm</button>
+            </div>
+        </form>
+
+        <div class="row row-cols-1 row-cols-md-4 g-4">
+            @foreach (var product in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm">
+                        <img src="@Url.Content(product.ImageUrl)" class="card-img-top" alt="@product.Name">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">@product.Description</p>
+                        </div>
+                        <div class="card-footer bg-white text-center">
+                            <span class="price">@product.Price.ToString("N0")₫</span>
+                            <br />
+                            <small class="category">@(product.Category?.Name ?? "Chưa có danh mục")</small>
+                        </div>
+                        <div class="card-footer bg-light text-center action-btns">
+                            <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-outline-primary btn-sm">Xem</a>
+                            <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-outline-warning btn-sm">Sửa</a>
+                            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-outline-danger btn-sm"
+                               onclick="return confirm('Bạn có chắc chắn muốn xóa sản phẩm này không?');">Xóa</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

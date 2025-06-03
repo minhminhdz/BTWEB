@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<section class="hero-section py-5 bg-light text-center">
+    <div class="container">
+        <h1 class="display-5 fw-bold text-danger">Chào mừng đến với Minh Store</h1>
+        <p class="lead text-muted">Nơi mua sắm điện thoại, laptop, phụ kiện chính hãng với giá tốt nhất!</p>
+        <a asp-controller="Product" asp-action="Index" class="btn btn-danger btn-lg mt-3">
+            <i class="bi bi-bag-fill"></i> Mua ngay
+        </a>
+    </div>
+</section>
+
+<section class="features py-5">
+    <div class="container">
+        <div class="row text-center g-4">
+            <div class="col-md-4">
+                <i class="bi bi-truck fs-1 text-danger"></i>
+                <h5 class="mt-3">Giao hàng nhanh</h5>
+                <p>Giao hàng tận nơi chỉ từ 2 giờ trong khu vực nội thành.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-shield-check fs-1 text-danger"></i>
+                <h5 class="mt-3">Bảo hành chính hãng</h5>
+                <p>Hỗ trợ bảo hành theo đúng chính sách hãng và đổi trả 1-1 nếu lỗi.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-credit-card fs-1 text-danger"></i>
+                <h5 class="mt-3">Thanh toán linh hoạt</h5>
+                <p>Hỗ trợ trả góp 0% và nhiều hình thức thanh toán tiện lợi.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="contact-banner py-5 text-white" style="background-color: #d70018;">
+    <div class="container text-center">
+        <h4>Liên hệ ngay để được tư vấn miễn phí</h4>
+        <p>Hotline: <strong> 0862741718 </strong> - Hỗ trợ 24/7</p>
+        <a href="#" class="btn btn-light mt-2">Liên hệ ngay</a>
+    </div>
+</section>
