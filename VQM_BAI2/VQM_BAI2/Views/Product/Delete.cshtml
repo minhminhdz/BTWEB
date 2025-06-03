@@ -1,0 +1,22 @@
+﻿@model VQM_BAI2.Models.Product
+
+@{
+    ViewData["Title"] = "Xoá sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger mb-4">BẠN CÓ CHẮC MUỐN XOÁ?</h2>
+
+    <div class="border p-3 mb-3">
+        <h4>@Model.Name</h4>
+        <p>@Model.Description</p>
+        <img src="@Model.ImageUrl" class="img-thumbnail" style="max-height: 150px;" />
+    </div>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Xoá</button>
+        <a asp-action="Index" class="btn btn-secondary">Huỷ</a>
+    </form>
+</div>
